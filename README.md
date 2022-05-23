@@ -1,2 +1,3 @@
 # LAB2
-# Labolatoria Programowanie Obiektowe
+# Labolatoria (Programowanie Obiektowe)
+Paulina Jasińska Informatyka i Ekonometria
